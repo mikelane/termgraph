@@ -1,4 +1,4 @@
-# Makefile for termgraph
+# Makefile for pychart
 
 .PHONY: clean
 clean:

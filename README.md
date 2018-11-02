@@ -2,7 +2,7 @@
 
 A python command-line tool which draws basic graphs in the terminal.
 
-Graph types supported:
+Chart types supported:
 
 - Bar Graphs
 - Color charts
@@ -126,7 +126,7 @@ optional arguments:
   --suffix SUFFIX       string to add as a suffix to all data points.
   --no-labels           Do not print the label column
   --color [{red,blue,green,magenta,yellow,black,cyan} [{red,blue,green,magenta,yellow,black,cyan} ...]]
-                        Graph bar color( s )
+                        Chart bar color( s )
   --vertical            Vertical graph
   --stacked             Stacked bar graph
   --different-scale     Categories have different scales.

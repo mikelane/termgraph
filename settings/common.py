@@ -1,0 +1,5 @@
+delimiter = ','
+tick = '▇'
+small_tick = '▏'
+header_row_marker = '@'
+comment_marker = '#'

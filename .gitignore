@@ -8,3 +8,5 @@ build/
 termgraph.egg-info/
 .coverage
 htmlcov/
+.idea/
+/.mypy_cache/
